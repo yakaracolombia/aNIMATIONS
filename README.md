@@ -55,3 +55,5 @@ los pines de instalacion son los siguientes y los he ubicado segun los dos tipos
 
 se pueden soldar  varias pantallas en paralelo para que ambas muestren la misma animacion al mismo tiempo, no se pueden manejar animaciones independientes
 con la potencia del ESP8266 se necsitaria un MCU mas potente como el ESP32
+
+![logo en movimiento n64](https://user-images.githubusercontent.com/22075544/133449524-b80185ae-0c1c-4a51-b43a-5893843b6f66.jpg)
