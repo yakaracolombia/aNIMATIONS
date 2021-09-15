@@ -1,3 +1,7 @@
+ANTES DE TODO LES RECOMIENDO VER MI VIDEO
+
+https://www.youtube.com/embed/TH-05Aq6hPw
+
 Reproductor minimo de .gif para esp8266 (wemos d1 mini)
 
 hace uso de la libreria https://github.com/Bodmer/TFT_eSPI y esta debe ser configurada correctamente para la pantalla a usar
@@ -41,6 +45,10 @@ en crear un .h a partir de un gif de 70px por 70px de 40 fotogramas como las del
 los datos que podemos configurar para girar, ubicar y posicionar nuestro gif son los siguientes:
 
 ![wemos 1](https://user-images.githubusercontent.com/22075544/133444910-a7ce19af-8c3b-4174-924e-4dcf0554a9dd.png)
+
+
+TUTORIAL DE INSTALACION DE ESP8266 EN ARDUINO:
+https://esp8266-arduino-spanish.readthedocs.io/es/latest/installing.html
 
 en mi ejemplo he usado dos tipos de pantallas de diferntes fabricantes pero que gracias a la libreria https://github.com/Bodmer/TFT_eSPI 
 son reconocidas de la misma manera, es OBLIGATORIO configurar el User_Setup.h ubicado en la carpeta delibrerias de arduino
